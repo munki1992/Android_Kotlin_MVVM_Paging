@@ -1,4 +1,4 @@
-## MVVM + RoomDatabase
+## MVVM + Paging
 [![Android](https://img.shields.io/badge/Android-Kotlin-green?style=flat-square)](https://developer.android.com/index.html)
 
 ````
